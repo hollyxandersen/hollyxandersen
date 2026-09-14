@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Holly 👋
 
+Data Consultant | The Information Lab | Tableau, Power BI, Alteryx
 <!--
 **hollyxandersen/hollyxandersen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
