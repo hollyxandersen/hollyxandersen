@@ -47,7 +47,7 @@ Through my training at The Data School, I've developed skills in data preparatio
   <a href="ALTERYX_CORE_CREDENTIAL_URL"
      title="View my Alteryx Designer Core certification">
     <img src="images/Alteryx-Certification_Designer_Core.png"
-         width="90"
+         width="110"
          alt="Alteryx Designer Core certification"
          title="Alteryx Designer Core">
   </a>
@@ -55,7 +55,7 @@ Through my training at The Data School, I've developed skills in data preparatio
   <a href="ALTERYX_ADVANCED_CREDENTIAL_URL"
      title="View my Alteryx Designer Advanced certification">
     <img src="images/alteryx-designer-advanced-cert.png"
-         width="90"
+         width="110"
          alt="Alteryx Designer Advanced certification"
          title="Alteryx Designer Advanced">
   </a>
@@ -63,7 +63,7 @@ Through my training at The Data School, I've developed skills in data preparatio
   <a href="TABLEAU_CERT_CREDENTIAL_URL"
      title="View my Tableau Certified Data Analyst certification">
     <img src="images/tableau-data-analyst-cert.png"
-         width="90"
+         width="110"
          alt="Tableau Certified Data Analyst certification"
          title="Tableau Certified Data Analyst">
   </a>
@@ -71,7 +71,7 @@ Through my training at The Data School, I've developed skills in data preparatio
   <a href="MICROSOFT_CERT_CREDENTIAL_URL"
      title="View my Microsoft Power BI Data Analyst certification">
     <img src="images/PL-300-cert.png"
-         width="90"
+         width="110"
          alt="Microsoft Power BI Data Analyst Associate certification"
          title="Microsoft Power BI Data Analyst Associate">
   </a>
