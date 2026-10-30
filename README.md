@@ -86,7 +86,7 @@ Through my training at The Data School, I've developed skills in data preparatio
 
 | Project | Description | Tools |
 |:---|:---|:---|
-| 🔬 **OpenAlex Research Landscape** | Building a reproducible pipeline to extract, model and analyse scientific publication data, including API pagination, checkpointing and SQL transformations. | `Python` `SQL` `DuckDB` |
+| 🔬 **[OpenAlex Research Landscape](https://github.com/hollyxandersen/OpenAlex-DEng-Application-Example-Pipeline)** | Building a reproducible pipeline to extract, model and analyse scientific publication data, including API pagination, checkpointing and SQL transformations. | `Python` `SQL` `DuckDB` |
 | 🍳 **[Recipe Unit Converter](https://github.com/hollyxandersen/deng-example1-Recipe-Unit-Converter)** | Built a Streamlit app to parse unstructured recipes and convert ingredient measurements using API reference data. | `Python` `APIs` `Streamlit` |
 | 🧩 **Preppin' Data Challenges** | Solving data preparation challenges using Python and SQL, with a focus on cleaning, reshaping and transforming datasets. | `Python` `SQL` |
 | 💻 **LeetCode Solutions** | A collection of coding and SQL solutions to develop my problem-solving skills. | `Python` `SQL` |
