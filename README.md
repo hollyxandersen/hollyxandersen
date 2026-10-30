@@ -108,7 +108,7 @@ Below is a selection of my work — click on any image to explore the interactiv
 
   <!-- TOP ROW: TWO LARGE IMAGES -->
 
-  <a href="[TABLEAU_SPRINGSTEEN_URL](https://public.tableau.com/app/profile/holly.andersen/viz/SpringsteenonTour/SpringsteenonTour)"
+  <a href="https://public.tableau.com/app/profile/holly.andersen/viz/SpringsteenonTour/SpringsteenonTour"
      title="Springsteen on Tour — Explore the interactive visualisation">
     <img src="images/springsteen.png"
          width="40%"
@@ -127,21 +127,21 @@ Below is a selection of my work — click on any image to explore the interactiv
 
   <!-- BOTTOM ROW: THREE SMALLER IMAGES -->
 
-  <a href="[TABLEAU_FINANCE_URL](https://public.tableau.com/app/profile/holly.andersen/viz/FinanceDashboard_17887995614070/ApexFinanceDashboard)"
+  <a href="https://public.tableau.com/app/profile/holly.andersen/viz/FinanceDashboard_17887995614070/ApexFinanceDashboard"
      title="Finance Overview — Tableau Viz of the Day">
     <img src="images/finance.png"
          width="29%"
          alt="Finance Overview dashboard"
          title="Finance Overview — Viz of the Day 🏆">
   </a>
-  <a href="[TABLEAU_FLOORPLAN_URL](https://public.tableau.com/app/profile/holly.andersen/viz/FloorManagementDashboard/DeskView)"
+  <a href="https://public.tableau.com/app/profile/holly.andersen/viz/FloorManagementDashboard/DeskView"
      title="Interactive Floor Plan — Explore workspace data">
     <img src="images/floorplan.png"
          width="39%"
          alt="Interactive Floor Plan dashboard"
          title="Interactive Floor Plan">
   </a>
-  <a href="[TABLEAU_POPULATION_URL](https://public.tableau.com/app/profile/holly.andersen/viz/GlobalPopulationsOverTime-MakeoverMonday2026Week39/Dashboard12)"
+  <a href="https://public.tableau.com/app/profile/holly.andersen/viz/GlobalPopulationsOverTime-MakeoverMonday2026Week39/Dashboard12"
      title="Global Populations — Explore population trends">
     <img src="images/population.png"
          width="24%"
