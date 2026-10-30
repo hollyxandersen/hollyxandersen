@@ -32,8 +32,6 @@
   <img src="https://img.shields.io/badge/Tableau-EBEEF2?style=flat&logo=tableau&logoColor=444444" alt="Tableau" title="Tableau">
   <img src="https://img.shields.io/badge/Power_BI-EBEEF2?style=flat&logo=powerbi&logoColor=444444" alt="Power BI" title="Power BI">
   <img src="https://img.shields.io/badge/Alteryx-EBEEF2?style=flat&logoColor=444444" alt="Alteryx" title="Alteryx">
-  <img src="https://img.shields.io/badge/DuckDB-EBEEF2?style=flat&logo=duckdb&logoColor=444444" alt="DuckDB" title="DuckDB">
-  <img src="https://img.shields.io/badge/Streamlit-EBEEF2?style=flat&logo=streamlit&logoColor=444444" alt="Streamlit" title="Streamlit">
   <img src="https://img.shields.io/badge/TabPy-EBEEF2?style=flat&logoColor=444444" alt="TabPy" title="TabPy">
 </p>
 
