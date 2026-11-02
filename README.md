@@ -89,7 +89,7 @@ Through my training at The Data School, I've developed skills in data preparatio
 | 🔬 **[OpenAlex Research Landscape](https://github.com/hollyxandersen/OpenAlex-DEng-Application-Example-Pipeline)** | Building a reproducible pipeline to extract, model and analyse scientific publication data, including API pagination, checkpointing and SQL transformations. | `Python` `SQL` `DuckDB` |
 | 🍳 **[Recipe Unit Converter](https://github.com/hollyxandersen/deng-example1-Recipe-Unit-Converter)** | Built a Streamlit app to parse unstructured recipes and convert ingredient measurements using API reference data. | `Python` `APIs` `Streamlit` |
 | 🧩 **Preppin' Data Challenges** | Solving data preparation challenges using Python and SQL, with a focus on cleaning, reshaping and transforming datasets. | `Python` `SQL` |
-| 💻 **LeetCode Solutions** | A collection of coding and SQL solutions to develop my problem-solving skills. | `Python` `SQL` |
+| 💻 **[LeetCode Solutions](https://github.com/hollyxandersen/leetcode)** | A collection of coding and SQL solutions to develop my problem-solving skills. | `Python` `SQL` |
 | 🧵 **[Cross-Stitch Pattern Maker](https://github.com/hollyxandersen/Cross-Stitch-Patter-Maker)** | Created an interactive pattern builder by transforming image data and connecting Python with Tableau. | `Python` `TabPy` `Tableau` |
 
 <!-- Add repository links for OpenAlex, Preppin' Data and LeetCode once published. -->
