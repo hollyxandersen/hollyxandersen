@@ -24,7 +24,7 @@
 # Hi there, I'm Holly! 👋
 
 **Data Consultant @ The Information Lab**  
-*Data Analytics · Data Visualisation · Data Engineering*
+*Data Analytics · Data Visualisation*
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-EBEEF2?style=flat&logo=python&logoColor=444444" alt="Python" title="Python">
